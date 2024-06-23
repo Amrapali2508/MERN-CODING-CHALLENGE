@@ -1,4 +1,4 @@
-<h1>MERN Stack Coding Challenge</h1>
+<h1>✨MERN Stack Coding Challenge✨</h1>
 
 Backend Task
 Data Source<br>
